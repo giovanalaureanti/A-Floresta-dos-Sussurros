@@ -8,3 +8,8 @@ body{
 main{
     max-width: 90%;
 }
+button{
+    background-color: azure;
+    color:blueviolet;
+    padding: 10px;
+}
