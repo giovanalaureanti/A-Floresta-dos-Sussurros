@@ -1,5 +1,5 @@
 body{
-    background-color: aquamarine
+    background-color: rgb(44, 23, 232)
     color:black;
     text-align: center;
     margin: 100px 0;
@@ -9,7 +9,7 @@ main{
     max-width: 90%;
 }
 button{
-    background-color: azure;
+    background-color: rgb(205, 10, 78);
     color:blueviolet;
     padding: 10px;
 }
