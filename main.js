@@ -1,1 +1,2 @@
-alert("test")
+const avanca = document.querySelectorAll('.btn-proximo')
+console.log(avanca)
